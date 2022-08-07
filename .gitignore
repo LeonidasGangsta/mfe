@@ -1,0 +1,6 @@
+# Dependencies and build files
+node_modules
+dist
+
+# Miscellaneous
+.DS_Store
