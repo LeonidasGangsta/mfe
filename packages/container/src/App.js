@@ -14,7 +14,6 @@ export default () => {
     <StylesProvider generateClassName={generateClassName}>
       <BrowserRouter>
         <Header />
-        <hr />
         <Route path="/" exact component={MarketingApp} />
       </BrowserRouter>
     </StylesProvider>
