@@ -1,1 +1,1 @@
-import(/* webpackChunkNames: "container" */ './bootstrap');
+import(/* webpackChunkName: "container" */ './bootstrap');
